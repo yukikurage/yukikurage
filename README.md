@@ -1,6 +1,6 @@
 # yukikurage / ゆきくらげ
 
-## Works
+## 📝Works
 
 ### Website
 
@@ -27,8 +27,11 @@ Parse logical formulas
 ### Repositories
 
 [purescript-glapple](https://github.com/yukikurage/purescript-glapple)
+
 A canvas-based graphics library
 
 [purescript-dependency-glaph](https://github.com/yukikurage/purescript-dependency-graph)
+
 Draws PureScript inter-module dependencies using mermaid.
+
 
