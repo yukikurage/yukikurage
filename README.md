@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">❅ଳ yukikurage / ゆきくらげ ❅ଳ</h1>
 
-Hi, I'm Yukikurage, I'm mainly using PureScript and Haskell, I can also write TypeScript + React.
+Hi, I'm Yukikurage, I'm mainly using PureScript and Haskell I can also write TypeScript + React.
 
 I enjoy composing music and drawing pictures. You can see a list of my works at the following site.
 
