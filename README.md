@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55534323/146291918-56211aa4-7a1e-4d39-88cb-6c33f691da8c.png" />
+  <img src="https://user-images.githubusercontent.com/55534323/146294420-152850eb-3a83-46bb-9f74-7f124af81036.png" />
 </p>
 <h1 align="center">❅ଳ yukikurage / ゆきくらげ ❅ଳ</h1>
 
@@ -15,7 +15,7 @@ I enjoy composing music and drawing pictures. You can see a list of my works at 
 
 ### 📄 Website
 
-#### 🧑‍💻[YUKIWORKDS](https://yukikurage.github.io/portfolio/)
+#### 🧑‍💻[YUKIWORKS](https://yukikurage.github.io/portfolio/)
 
 Music and drawing works
 
