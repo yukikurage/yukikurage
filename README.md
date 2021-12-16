@@ -1,8 +1,8 @@
 # ❅ଳ yukikurage / ゆきくらげ ❅ଳ
 
-##📖Works
+## 📖Works
 
-###📄 Website
+### 📄 Website
 
 - 🎵[YUKIWORKDS](https://yukikurage.github.io/portfolio/)
 
