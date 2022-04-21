@@ -15,7 +15,7 @@ I enjoy composing music and drawing pictures. You can see a list of my works at 
 
 ### 📄 Website
 
-#### 🧑‍💻[YUKIWORKS](https://yukikurage.github.io/portfolio/)
+#### 🧑‍💻[YUKIWORKS](https://portfolio-bql.pages.dev/)
 
 Music and drawing works
 
