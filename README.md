@@ -35,6 +35,10 @@ Parse logical formulas
 
 (WIP) Sokoban-type puzzle using special blocks that return to their original locations after two rounds.
 
+### [1 Day Reminder](https://github.com/yukikurage/1-day-reminder)
+
+A reminder which keeps tasks only one day.
+
 ### 🧰Repositories
 
 #### 🍎[purescript-glapple](https://github.com/yukikurage/purescript-glapple)
