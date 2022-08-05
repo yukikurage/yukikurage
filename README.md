@@ -5,7 +5,7 @@
 
 Hi, I'm Yukikurage, I'm mainly using PureScript and Haskell. I can also write TypeScript + React.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukikurage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📖Works
 
