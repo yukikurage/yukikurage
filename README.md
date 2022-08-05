@@ -5,11 +5,7 @@
 
 Hi, I'm Yukikurage, I'm mainly using PureScript and Haskell. I can also write TypeScript + React.
 
-I enjoy composing music and drawing pictures. You can see a list of my works at the following site.
-
-- 🎵[SoundCloud](https://soundcloud.com/yukikurage)
-- 🎨[Pixiv](https://www.pixiv.net/en/users/44737353)
-- 🎵[Youtube](https://www.youtube.com/channel/UCTGwIwjCRMpe7cmpP2EaH3w)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📖Works
 
