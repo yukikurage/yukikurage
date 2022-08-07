@@ -15,7 +15,7 @@ I write mostly in PureScript and Haskell, but my skills are not quite there yet;
 
 Music and drawing portfolio
 
-#### 💻[YukiNet](https://yukikurage.github.io/web-portfolio/#/about)
+#### 💻[YukiNet(WIP)](https://yukikurage.github.io/web-portfolio/#/about)
 
 Web apps portfolio
 
