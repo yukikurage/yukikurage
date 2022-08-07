@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">❅ଳ yukikurage / ゆきくらげ ❅ଳ</h1>
 
-Hi, I'm Yukikurage, I'm mainly using PureScript and Haskell. I can also write TypeScript + React.
+I write mostly in PureScript and Haskell, but my skills are not quite there yet; I can also use React and Nextjs.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukikurage&layout=compact&exclude_repo=comp-programming-cabal)](https://github.com/anuraghazra/github-readme-stats)
 
