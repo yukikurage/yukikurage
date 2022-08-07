@@ -11,9 +11,13 @@ I write mostly in PureScript and Haskell, but my skills are not quite there yet;
 
 ### 📄 Website
 
-#### 🧑‍💻[YUKIWORKS](https://portfolio-bql.pages.dev/)
+#### 🧑‍💻[YUKIWORKS](https://yukikurage.github.io/portfolio/)
 
-Music and drawing works
+Music and drawing portfolio
+
+#### 💻[YukiNet](https://yukikurage.github.io/web-portfolio/#/about)
+
+Web apps portfolio
 
 #### 🎆[MANDELBROT](https://yukikurage.github.io/mandelbrot/)
 
@@ -33,9 +37,13 @@ Parse logical formulas
 
 #### [1 Day Reminder](https://github.com/yukikurage/1-day-reminder)
 
-A reminder which keeps tasks only one day.
+A reminder which keeps tasks only one day(This is very buggy)
 
 ### 🧰Repositories
+
+#### 🍮[purescript-jelly](https://github.com/yukikurage/purescript-jelly)
+
+Framework that do not use virtual DOM
 
 #### 🍎[purescript-glapple](https://github.com/yukikurage/purescript-glapple)
 
