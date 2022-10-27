@@ -45,7 +45,7 @@ A reminder which keeps tasks only one day(This is very buggy)
 
 Framework that do not use virtual DOM
 
-#### ~~🍎[purescript-glapple]~~ **DEPRECATED** (https://github.com/yukikurage/purescript-glapple)
+#### ~~🍎[purescript-glapple](https://github.com/yukikurage/purescript-glapple)~~ **DEPRECATED** 
 
 A canvas-based graphics library
 
