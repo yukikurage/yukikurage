@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55534323/146294420-152850eb-3a83-46bb-9f74-7f124af81036.png" />
+  <img src="https://github.com/yukikurage/yukikurage/assets/55534323/244cb526-c3af-4e43-ab3b-ca558976865e.png" />
 </p>
 <h1 align="center">❅ଳ yukikurage / ゆきくらげ ❅ଳ</h1>
 
