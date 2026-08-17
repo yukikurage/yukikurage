@@ -6,10 +6,13 @@ MSc student at Institute of Science Tokyo, working on the **semantics of program
 
 #### 🗣️ [Katari](https://github.com/katari-lang/katari)
 A programming language for orchestrating AI agents. Durable by default, algebraic effects for human-in-the-loop, JSON Schema derived from types.
+Not production-ready, but I run it in production as a Discord bot!
 → [設計について書いた記事](https://zenn.dev/yukikurage/articles/201f6f9155f3db)
 
-#### 🌊 Quon
-Semantics of reactive programming and component systems. My master's thesis.
+
+#### 🌊 [Quon](https://github.com/quon-org)
+**Resource-oriented reactive programming.** Semantics of reactive programming and
+component systems: my master's thesis. [TypeScript implementation](https://github.com/quon-org/quon-ts)
 
 #### 🌟 [Stellagate](https://x.com/stellagate_traP)
 A puzzle game. I'm the director, and I wrote most of the code, drew half of the
@@ -34,7 +37,7 @@ A logical formula parser, and a Mandelbrot set renderer in WebGL.
 I compose and draw as much as I write code.
 Some of my tracks are in **Dynamix**, **Takumi³** and **ChainBeeT**.
 
-[**YUKIWORKS**](https://yukikurage.github.io/portfolio/) music and drawing portfolio
+[**YUKIWORKS**](https://yukikurage.github.io/portfolio/) : music and drawing portfolio
 · [SoundCloud](https://soundcloud.com/yukikurage) · [pixiv](https://www.pixiv.net/users/44737353)
 
 ## 🎤 Talks
