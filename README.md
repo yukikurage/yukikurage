@@ -5,10 +5,13 @@ programming**. I mainly write PureScript and Haskell — and I also draw and com
 
 ## ✨ Now
 
-#### 🗣️ [Katari](https://github.com/yukikurage/katari)
+#### 🗣️ [Katari](https://github.com/katari-lang/katari)
 A programming language for orchestrating AI agents. Durable by default, algebraic
 effects for human-in-the-loop, JSON Schema derived from types.
+**Running in production as a Discord bot.**
 → [設計について書いた記事](https://zenn.dev/yukikurage/articles/201f6f9155f3db)
+
+<sub>I've built a language before — *memento*, a compiled language in Haskell, with an LSP and a VS Code extension.</sub>
 
 #### 🌊 Quon
 Semantics of reactive programming and component systems. My master's thesis.
@@ -41,7 +44,10 @@ Some of my tracks are in **Dynamix**, **Takumi³** and **ChainBeeT**.
 
 ## 🎤 Talks
 
-**Effect の双対、Coeffect** — 関数型まつり 2025
+Speaker at **関数型まつり (FP Matsuri)**, two years running.
+
+- [**継続モナドとリアクティブプログラミング**](https://speakerdeck.com/yukikurage/ji-sok-monadotoriakuteibupuroguramingu) — 関数型まつり 2026
+- [**Effect の双対、Coeffect**](https://speakerdeck.com/yukikurage/effect-noshuang-dui-coeffect) — 関数型まつり 2025
 
 ---
 
@@ -75,9 +81,13 @@ Dynamix / Takumi³ / ChainBeeT に楽曲提供。ドット絵も描きます。
 
 **登壇**
 
-「Effect の双対、Coeffect」関数型まつり 2025
+関数型まつりに2年連続で登壇しています。
+
+- 「継続モナドとリアクティブプログラミング」関数型まつり 2026
+- 「Effect の双対、Coeffect」関数型まつり 2025
 
 </details>
+
 <sub>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yukikurage&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=yukikurage&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=radical)
 </sub>
