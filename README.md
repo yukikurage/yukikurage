@@ -5,7 +5,7 @@
 
 I mainly write PureScript and Haskell.
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=yukikurage&layout=compact&exclude_repo=comp-programming-cabal)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yukikurage&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=yukikurage&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=radical)
 
 ## 📖Works
 
