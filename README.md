@@ -13,7 +13,7 @@ Semantics of reactive programming and component systems. My master's thesis.
 
 #### 🌟 [Stellagate](https://x.com/stellagate_traP)
 A puzzle game. I'm the director, and I wrote most of the code, drew half of the
-pixel art.
+pixel art, and composed part of the soundtrack.
 
 ## 🧰 Projects
 
