@@ -8,10 +8,7 @@ programming**. I mainly write PureScript and Haskell — and I also draw and com
 #### 🗣️ [Katari](https://github.com/yukikurage/katari)
 A programming language for orchestrating AI agents. Durable by default, algebraic
 effects for human-in-the-loop, JSON Schema derived from types.
-**Running in production as a Discord bot.**
 → [設計について書いた記事](https://zenn.dev/yukikurage/articles/201f6f9155f3db)
-
-<sub>I've built a language before — *memento*, a compiled language in Haskell, with an LSP and a VS Code extension.</sub>
 
 #### 🌊 Quon
 Semantics of reactive programming and component systems. My master's thesis.
