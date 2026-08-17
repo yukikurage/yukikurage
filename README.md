@@ -85,5 +85,7 @@ Dynamix / Takumi³ / ChainBeeT に楽曲提供。ドット絵も描きます。
 </details>
 
 <sub>
+  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yukikurage&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=yukikurage&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=radical)
+  
 </sub>
