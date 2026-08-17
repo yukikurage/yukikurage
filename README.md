@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/yukikurage/yukikurage/assets/55534323/244cb526-c3af-4e43-ab3b-ca558976865e.png" />
-</p>
 <h1 align="center">❅ଳ yukikurage / ゆきくらげ ❅ଳ</h1>
 
 I mainly write PureScript and Haskell.
