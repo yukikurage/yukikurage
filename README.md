@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0979aaae-858e-40c7-807a-a7bc3d2319ab" />
+</p>
 
 I build **programming languages** and the runtimes that make them worth using.
 MSc student at Institute of Science Tokyo, working on the **semantics of programming languages**. I mainly write PureScript and Haskell.
